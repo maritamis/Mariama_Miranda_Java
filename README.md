@@ -1,4 +1,4 @@
-This can be used as an Account Management Application.
+This application manages accounts of customers. 
 
 The AccountRecord class contains the following attributes:
     charge - integer representing the amount of the charge
